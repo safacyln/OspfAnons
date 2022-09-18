@@ -1,7 +1,7 @@
 import streamlit as st
 # import paramiko
 
-st.title('Sekuritim OSPF Anons Software')
+st.title('OSPF Anons Software')
 
 networkAddr = st.text_input('Anons edilmesini istediğiniz network adresini yazınız')
 networkComment = st.text_input('Açıklama yazınız (Örn: Kurumsal)')
